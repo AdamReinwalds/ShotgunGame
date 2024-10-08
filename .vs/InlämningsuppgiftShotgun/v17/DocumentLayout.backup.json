@@ -1,0 +1,192 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\adamr\\source\\repos\\Inl\u00E4mningsuppgiftShotgun\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{448FF8C6-09F2-4010-9070-94D377393380}|Inl\u00E4mningsuppgiftShotgun\\Inl\u00E4mningsuppgiftShotgun.csproj|c:\\users\\adamr\\source\\repos\\inl\u00E4mningsuppgiftshotgun\\inl\u00E4mningsuppgiftshotgun\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{448FF8C6-09F2-4010-9070-94D377393380}|Inl\u00E4mningsuppgiftShotgun\\Inl\u00E4mningsuppgiftShotgun.csproj|solutionrelative:inl\u00E4mningsuppgiftshotgun\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{448FF8C6-09F2-4010-9070-94D377393380}|Inl\u00E4mningsuppgiftShotgun\\Inl\u00E4mningsuppgiftShotgun.csproj|c:\\users\\adamr\\source\\repos\\inl\u00E4mningsuppgiftshotgun\\inl\u00E4mningsuppgiftshotgun\\shotgunform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{448FF8C6-09F2-4010-9070-94D377393380}|Inl\u00E4mningsuppgiftShotgun\\Inl\u00E4mningsuppgiftShotgun.csproj|solutionrelative:inl\u00E4mningsuppgiftshotgun\\shotgunform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{448FF8C6-09F2-4010-9070-94D377393380}|Inl\u00E4mningsuppgiftShotgun\\Inl\u00E4mningsuppgiftShotgun.csproj|c:\\users\\adamr\\source\\repos\\inl\u00E4mningsuppgiftshotgun\\inl\u00E4mningsuppgiftshotgun\\classes\\computer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{448FF8C6-09F2-4010-9070-94D377393380}|Inl\u00E4mningsuppgiftShotgun\\Inl\u00E4mningsuppgiftShotgun.csproj|solutionrelative:inl\u00E4mningsuppgiftshotgun\\classes\\computer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{448FF8C6-09F2-4010-9070-94D377393380}|Inl\u00E4mningsuppgiftShotgun\\Inl\u00E4mningsuppgiftShotgun.csproj|c:\\users\\adamr\\source\\repos\\inl\u00E4mningsuppgiftshotgun\\inl\u00E4mningsuppgiftshotgun\\classes\\classdiagram.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
+      "RelativeMoniker": "D:0:0:{448FF8C6-09F2-4010-9070-94D377393380}|Inl\u00E4mningsuppgiftShotgun\\Inl\u00E4mningsuppgiftShotgun.csproj|solutionrelative:inl\u00E4mningsuppgiftshotgun\\classes\\classdiagram.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{448FF8C6-09F2-4010-9070-94D377393380}|Inl\u00E4mningsuppgiftShotgun\\Inl\u00E4mningsuppgiftShotgun.csproj|c:\\users\\adamr\\source\\repos\\inl\u00E4mningsuppgiftshotgun\\inl\u00E4mningsuppgiftshotgun\\classes\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{448FF8C6-09F2-4010-9070-94D377393380}|Inl\u00E4mningsuppgiftShotgun\\Inl\u00E4mningsuppgiftShotgun.csproj|solutionrelative:inl\u00E4mningsuppgiftshotgun\\classes\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{448FF8C6-09F2-4010-9070-94D377393380}|Inl\u00E4mningsuppgiftShotgun\\Inl\u00E4mningsuppgiftShotgun.csproj|C:\\Users\\adamr\\source\\repos\\Inl\u00E4mningsuppgiftShotgun\\inl\u00E4mningsuppgiftshotgun\\shotgunform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{448FF8C6-09F2-4010-9070-94D377393380}|Inl\u00E4mningsuppgiftShotgun\\Inl\u00E4mningsuppgiftShotgun.csproj|solutionrelative:inl\u00E4mningsuppgiftshotgun\\shotgunform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{448FF8C6-09F2-4010-9070-94D377393380}|Inl\u00E4mningsuppgiftShotgun\\Inl\u00E4mningsuppgiftShotgun.csproj|c:\\users\\adamr\\source\\repos\\inl\u00E4mningsuppgiftshotgun\\inl\u00E4mningsuppgiftshotgun\\classes\\shooter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{448FF8C6-09F2-4010-9070-94D377393380}|Inl\u00E4mningsuppgiftShotgun\\Inl\u00E4mningsuppgiftShotgun.csproj|solutionrelative:inl\u00E4mningsuppgiftshotgun\\classes\\shooter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{448FF8C6-09F2-4010-9070-94D377393380}|Inl\u00E4mningsuppgiftShotgun\\Inl\u00E4mningsuppgiftShotgun.csproj|c:\\users\\adamr\\source\\repos\\inl\u00E4mningsuppgiftshotgun\\inl\u00E4mningsuppgiftshotgun\\classes\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{448FF8C6-09F2-4010-9070-94D377393380}|Inl\u00E4mningsuppgiftShotgun\\Inl\u00E4mningsuppgiftShotgun.csproj|solutionrelative:inl\u00E4mningsuppgiftshotgun\\classes\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{448FF8C6-09F2-4010-9070-94D377393380}|Inl\u00E4mningsuppgiftShotgun\\Inl\u00E4mningsuppgiftShotgun.csproj|c:\\users\\adamr\\source\\repos\\inl\u00E4mningsuppgiftshotgun\\inl\u00E4mningsuppgiftshotgun\\shotgunform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{448FF8C6-09F2-4010-9070-94D377393380}|Inl\u00E4mningsuppgiftShotgun\\Inl\u00E4mningsuppgiftShotgun.csproj|solutionrelative:inl\u00E4mningsuppgiftshotgun\\shotgunform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\adamr\\source\\repos\\Inl\u00E4mningsuppgiftShotgun\\Inl\u00E4mningsuppgiftShotgun\\Program.cs",
+              "RelativeDocumentMoniker": "Inl\u00E4mningsuppgiftShotgun\\Program.cs",
+              "ToolTip": "C:\\Users\\adamr\\source\\repos\\Inl\u00E4mningsuppgiftShotgun\\Inl\u00E4mningsuppgiftShotgun\\Program.cs",
+              "RelativeToolTip": "Inl\u00E4mningsuppgiftShotgun\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T08:03:16.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Computer.cs",
+              "DocumentMoniker": "C:\\Users\\adamr\\source\\repos\\Inl\u00E4mningsuppgiftShotgun\\Inl\u00E4mningsuppgiftShotgun\\Classes\\Computer.cs",
+              "RelativeDocumentMoniker": "Inl\u00E4mningsuppgiftShotgun\\Classes\\Computer.cs",
+              "ToolTip": "C:\\Users\\adamr\\source\\repos\\Inl\u00E4mningsuppgiftShotgun\\Inl\u00E4mningsuppgiftShotgun\\Classes\\Computer.cs",
+              "RelativeToolTip": "Inl\u00E4mningsuppgiftShotgun\\Classes\\Computer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T10:34:27.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ClassDiagram.cd",
+              "DocumentMoniker": "C:\\Users\\adamr\\source\\repos\\Inl\u00E4mningsuppgiftShotgun\\Inl\u00E4mningsuppgiftShotgun\\Classes\\ClassDiagram.cd",
+              "RelativeDocumentMoniker": "Inl\u00E4mningsuppgiftShotgun\\Classes\\ClassDiagram.cd",
+              "ToolTip": "C:\\Users\\adamr\\source\\repos\\Inl\u00E4mningsuppgiftShotgun\\Inl\u00E4mningsuppgiftShotgun\\Classes\\ClassDiagram.cd",
+              "RelativeToolTip": "Inl\u00E4mningsuppgiftShotgun\\Classes\\ClassDiagram.cd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
+              "WhenOpened": "2024-09-27T16:24:50.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ShotgunForm.cs",
+              "DocumentMoniker": "C:\\Users\\adamr\\source\\repos\\Inl\u00E4mningsuppgiftShotgun\\Inl\u00E4mningsuppgiftShotgun\\ShotgunForm.cs",
+              "RelativeDocumentMoniker": "Inl\u00E4mningsuppgiftShotgun\\ShotgunForm.cs",
+              "ToolTip": "C:\\Users\\adamr\\source\\repos\\Inl\u00E4mningsuppgiftShotgun\\Inl\u00E4mningsuppgiftShotgun\\ShotgunForm.cs",
+              "RelativeToolTip": "Inl\u00E4mningsuppgiftShotgun\\ShotgunForm.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAswHwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T08:19:14.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\adamr\\source\\repos\\Inl\u00E4mningsuppgiftShotgun\\Inl\u00E4mningsuppgiftShotgun\\Classes\\Player.cs",
+              "RelativeDocumentMoniker": "Inl\u00E4mningsuppgiftShotgun\\Classes\\Player.cs",
+              "ToolTip": "C:\\Users\\adamr\\source\\repos\\Inl\u00E4mningsuppgiftShotgun\\Inl\u00E4mningsuppgiftShotgun\\Classes\\Player.cs",
+              "RelativeToolTip": "Inl\u00E4mningsuppgiftShotgun\\Classes\\Player.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T10:34:56.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\Users\\adamr\\source\\repos\\Inl\u00E4mningsuppgiftShotgun\\Inl\u00E4mningsuppgiftShotgun\\Classes\\Game.cs",
+              "RelativeDocumentMoniker": "Inl\u00E4mningsuppgiftShotgun\\Classes\\Game.cs",
+              "ToolTip": "C:\\Users\\adamr\\source\\repos\\Inl\u00E4mningsuppgiftShotgun\\Inl\u00E4mningsuppgiftShotgun\\Classes\\Game.cs",
+              "RelativeToolTip": "Inl\u00E4mningsuppgiftShotgun\\Classes\\Game.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAswBUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T12:16:47.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Shooter.cs",
+              "DocumentMoniker": "C:\\Users\\adamr\\source\\repos\\Inl\u00E4mningsuppgiftShotgun\\Inl\u00E4mningsuppgiftShotgun\\Classes\\Shooter.cs",
+              "RelativeDocumentMoniker": "Inl\u00E4mningsuppgiftShotgun\\Classes\\Shooter.cs",
+              "ToolTip": "C:\\Users\\adamr\\source\\repos\\Inl\u00E4mningsuppgiftShotgun\\Inl\u00E4mningsuppgiftShotgun\\Classes\\Shooter.cs",
+              "RelativeToolTip": "Inl\u00E4mningsuppgiftShotgun\\Classes\\Shooter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T19:36:44.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ShotgunForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\adamr\\source\\repos\\Inl\u00E4mningsuppgiftShotgun\\Inl\u00E4mningsuppgiftShotgun\\ShotgunForm.cs",
+              "RelativeDocumentMoniker": "Inl\u00E4mningsuppgiftShotgun\\ShotgunForm.cs",
+              "ToolTip": "C:\\Users\\adamr\\source\\repos\\Inl\u00E4mningsuppgiftShotgun\\Inl\u00E4mningsuppgiftShotgun\\ShotgunForm.cs [Design]",
+              "RelativeToolTip": "Inl\u00E4mningsuppgiftShotgun\\ShotgunForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T14:25:00.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ShotgunForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\adamr\\source\\repos\\Inl\u00E4mningsuppgiftShotgun\\Inl\u00E4mningsuppgiftShotgun\\ShotgunForm.Designer.cs",
+              "RelativeDocumentMoniker": "Inl\u00E4mningsuppgiftShotgun\\ShotgunForm.Designer.cs",
+              "ToolTip": "C:\\Users\\adamr\\source\\repos\\Inl\u00E4mningsuppgiftShotgun\\Inl\u00E4mningsuppgiftShotgun\\ShotgunForm.Designer.cs",
+              "RelativeToolTip": "Inl\u00E4mningsuppgiftShotgun\\ShotgunForm.Designer.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAQwBIBAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T19:06:22.308Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

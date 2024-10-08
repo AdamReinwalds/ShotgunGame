@@ -1,0 +1,17 @@
+C:\Users\adamr\source\repos\InlämningsuppgiftShotgun\InlämningsuppgiftShotgun\bin\Debug\net8.0-windows\InlämningsuppgiftShotgun.exe
+C:\Users\adamr\source\repos\InlämningsuppgiftShotgun\InlämningsuppgiftShotgun\bin\Debug\net8.0-windows\InlämningsuppgiftShotgun.deps.json
+C:\Users\adamr\source\repos\InlämningsuppgiftShotgun\InlämningsuppgiftShotgun\bin\Debug\net8.0-windows\InlämningsuppgiftShotgun.runtimeconfig.json
+C:\Users\adamr\source\repos\InlämningsuppgiftShotgun\InlämningsuppgiftShotgun\bin\Debug\net8.0-windows\InlämningsuppgiftShotgun.dll
+C:\Users\adamr\source\repos\InlämningsuppgiftShotgun\InlämningsuppgiftShotgun\bin\Debug\net8.0-windows\InlämningsuppgiftShotgun.pdb
+C:\Users\adamr\source\repos\InlämningsuppgiftShotgun\InlämningsuppgiftShotgun\obj\Debug\net8.0-windows\InlämningsuppgiftShotgun.csproj.GenerateResource.cache
+C:\Users\adamr\source\repos\InlämningsuppgiftShotgun\InlämningsuppgiftShotgun\obj\Debug\net8.0-windows\InlämningsuppgiftShotgun.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adamr\source\repos\InlämningsuppgiftShotgun\InlämningsuppgiftShotgun\obj\Debug\net8.0-windows\InlämningsuppgiftShotgun.AssemblyInfoInputs.cache
+C:\Users\adamr\source\repos\InlämningsuppgiftShotgun\InlämningsuppgiftShotgun\obj\Debug\net8.0-windows\InlämningsuppgiftShotgun.AssemblyInfo.cs
+C:\Users\adamr\source\repos\InlämningsuppgiftShotgun\InlämningsuppgiftShotgun\obj\Debug\net8.0-windows\InlämningsuppgiftShotgun.csproj.CoreCompileInputs.cache
+C:\Users\adamr\source\repos\InlämningsuppgiftShotgun\InlämningsuppgiftShotgun\obj\Debug\net8.0-windows\InlämningsuppgiftShotgun.dll
+C:\Users\adamr\source\repos\InlämningsuppgiftShotgun\InlämningsuppgiftShotgun\obj\Debug\net8.0-windows\refint\InlämningsuppgiftShotgun.dll
+C:\Users\adamr\source\repos\InlämningsuppgiftShotgun\InlämningsuppgiftShotgun\obj\Debug\net8.0-windows\InlämningsuppgiftShotgun.pdb
+C:\Users\adamr\source\repos\InlämningsuppgiftShotgun\InlämningsuppgiftShotgun\obj\Debug\net8.0-windows\InlämningsuppgiftShotgun.genruntimeconfig.cache
+C:\Users\adamr\source\repos\InlämningsuppgiftShotgun\InlämningsuppgiftShotgun\obj\Debug\net8.0-windows\ref\InlämningsuppgiftShotgun.dll
+C:\Users\adamr\source\repos\InlämningsuppgiftShotgun\InlämningsuppgiftShotgun\bin\Debug\net8.0-windows\Pictures\shotgunshell.png
+C:\Users\adamr\source\repos\InlämningsuppgiftShotgun\InlämningsuppgiftShotgun\obj\Debug\net8.0-windows\InlämningsuppgiftShotgun.ShotgunForm.resources

@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="InlämningsuppgiftShotgun.Classes.Shooter" Collapsed="true">
+    <Position X="1.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAEAIAEAAQABAAAAAAAAAAAAAAEAAAAGAAAAAAAAAQ=</HashCode>
+      <FileName>Classes\Shooter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InlämningsuppgiftShotgun.Classes.Computer">
+    <Position X="3" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAECAAAAAAABAAAAAAAAAAAAAAEAAAACAAAAAAAAAA=</HashCode>
+      <FileName>Classes\Computer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InlämningsuppgiftShotgun.Classes.Player">
+    <Position X="0.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAABAAAAAAAAAAAAAAEAAAACAAAAAAAAAA=</HashCode>
+      <FileName>Classes\Player.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InlämningsuppgiftShotgun.Classes.Game">
+    <Position X="5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAggAAAAAAABEAAEAAAACAEAAAAAABAQAAABAQAAA=</HashCode>
+      <FileName>Classes\Game.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
